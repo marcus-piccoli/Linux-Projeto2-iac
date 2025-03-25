@@ -25,5 +25,5 @@ echo "Descompactando o repositório!!!"
 unzip main.zip
 
 echo "Copiando conteúdo do repo na pasta do apache!!!"
-cd linux-site-dio
+cd linux-site-dio-main
 cp -R * /var/www/html/
